@@ -1,0 +1,7 @@
+*.log
+.gitattributes
+.git
+node_modules/
+.DS_Store
+downloaded_images.csv
+missing-images-errors.log
